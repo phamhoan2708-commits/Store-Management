@@ -1,0 +1,24 @@
+{
+  "name": "convenience-store-manager",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "seed": "node scripts/seed.js",
+    "seed:postgres": "node scripts/seed-postgres.js"
+  },
+  "dependencies": {
+    "lucide-react": "^0.468.0",
+    "next": "^15.0.0",
+    "pg": "^8.21.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "recharts": "^2.13.3"
+  },
+  "devDependencies": {
+    "eslint": "^9.15.0",
+    "eslint-config-next": "^15.0.0"
+  }
+}

@@ -1,0 +1,6 @@
+.next
+node_modules
+data/store.json
+.env*
+.vercel
+.docx_extract

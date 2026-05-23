@@ -1,0 +1,101 @@
+﻿product_id,product_name,price,quantity,supplier_id
+1,Cà phê lon 1,5000,154,4
+2,Nước cam Twister 2,45000,84,8
+3,Mì Hảo Hảo 3,12000,105,4
+4,Trà xanh Không Độ 4,60000,267,1
+5,Dầu gội Clear 5,10000,295,9
+6,Mì Hảo Hảo 6,5000,242,6
+7,Nước suối Lavie 7,12000,68,10
+8,Bánh Chocopie 8,25000,248,2
+9,Kem Wall 9,7000,32,8
+10,Nước suối Lavie 10,10000,93,1
+11,Sữa TH True Milk 11,25000,34,8
+12,Bánh Chocopie 12,60000,77,1
+13,Khăn giấy Pulppy 13,30000,198,3
+14,Khăn giấy Pulppy 14,12000,272,9
+15,Kem đánh răng P/S 15,45000,227,10
+16,Dầu gội Clear 16,10000,74,6
+17,Nước suối Lavie 17,5000,241,7
+18,Trà xanh Không Độ 18,12000,187,6
+19,Sữa Vinamilk 19,45000,111,5
+20,Khăn giấy Pulppy 20,20000,208,9
+21,Kem Wall 21,10000,176,10
+22,Snack Oishi 22,7000,262,10
+23,Khăn giấy Pulppy 23,10000,50,9
+24,Dầu gội Clear 24,60000,241,4
+25,Bánh mì sandwich 25,25000,148,4
+26,Trà xanh Không Độ 26,45000,226,8
+27,Xúc xích 27,30000,87,1
+28,Dầu gội Clear 28,5000,237,6
+29,Snack Oishi 29,60000,99,8
+30,Nước tăng lực Sting 30,60000,260,4
+31,Trà xanh Không Độ 31,45000,14,8
+32,Trà xanh Không Độ 32,60000,138,6
+33,Xúc xích 33,45000,242,8
+34,Mì Hảo Hảo 34,15000,269,5
+35,Cà phê lon 35,30000,167,8
+36,Nước suối Lavie 36,12000,127,10
+37,Nước cam Twister 37,45000,266,1
+38,Kem đánh răng P/S 38,20000,222,7
+39,Coca Cola 39,30000,57,5
+40,Kẹo Alpenliebe 40,60000,163,9
+41,Bánh Chocopie 41,12000,192,7
+42,Trà xanh Không Độ 42,45000,169,2
+43,Dầu gội Clear 43,25000,289,3
+44,Nước cam Twister 44,12000,148,8
+45,Kem đánh răng P/S 45,15000,269,8
+46,Bánh Oreo 46,7000,267,3
+47,Bánh Chocopie 47,25000,62,10
+48,Coca Cola 48,60000,158,2
+49,Cà phê lon 49,12000,186,5
+50,Sữa TH True Milk 50,25000,273,8
+51,Snack Oishi 51,7000,174,8
+52,Sữa Vinamilk 52,30000,98,10
+53,Nước cam Twister 53,30000,161,10
+54,Bánh Oreo 54,20000,262,4
+55,Cà phê lon 55,7000,275,4
+56,Nước tăng lực Sting 56,30000,29,7
+57,Cà phê lon 57,5000,263,9
+58,Bánh Chocopie 58,30000,107,8
+59,Nước tăng lực Sting 59,10000,33,10
+60,Sữa TH True Milk 60,30000,269,2
+61,Sữa Vinamilk 61,45000,76,5
+62,Nước suối Lavie 62,20000,139,8
+63,Kẹo Alpenliebe 63,12000,206,7
+64,Sữa Vinamilk 64,30000,81,8
+65,Xúc xích 65,15000,106,9
+66,Sữa Vinamilk 66,7000,197,6
+67,Bánh Oreo 67,12000,39,4
+68,Dầu gội Clear 68,20000,17,3
+69,Kẹo Alpenliebe 69,10000,69,7
+70,Nước tăng lực Sting 70,60000,157,3
+71,Kem Wall 71,7000,135,1
+72,Nước suối Lavie 72,60000,300,2
+73,Bánh Oreo 73,20000,93,10
+74,Mì Hảo Hảo 74,5000,274,7
+75,Khăn giấy Pulppy 75,12000,151,3
+76,Bánh Oreo 76,60000,193,7
+77,Bánh Oreo 77,20000,281,5
+78,Kẹo Alpenliebe 78,12000,26,6
+79,Sữa Vinamilk 79,45000,229,8
+80,Nước suối Lavie 80,15000,217,9
+81,Kem Wall 81,5000,229,7
+82,Nước suối Lavie 82,25000,13,10
+83,Nước tăng lực Sting 83,10000,210,10
+84,Kem Wall 84,15000,44,4
+85,Bánh mì sandwich 85,12000,122,7
+86,Kem Wall 86,15000,211,2
+87,Nước suối Lavie 87,45000,181,7
+88,Coca Cola 88,45000,205,3
+89,Dầu gội Clear 89,20000,270,10
+90,Coca Cola 90,60000,17,3
+91,Khăn giấy Pulppy 91,15000,254,8
+92,Kem Wall 92,30000,267,7
+93,Pepsi 93,45000,269,7
+94,Coca Cola 94,30000,93,6
+95,Kem Wall 95,5000,264,1
+96,Bánh Chocopie 96,15000,210,5
+97,Sữa TH True Milk 97,25000,192,2
+98,Kẹo Alpenliebe 98,25000,103,10
+99,Bánh mì sandwich 99,25000,105,6
+100,Nước suối Lavie 100,12000,98,8
